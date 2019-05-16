@@ -29,3 +29,27 @@ slide_number = "true"
 <img class="fragment" data-fragment-index="3" src="img/augmented.gif" width="170px"; height="100px";/>
 <img class="fragment" data-fragment-index="4" src="img/aggregate.gif" width="170px"; height="100px";/>
 <img class="fragment" data-fragment-index="5" src="img/devops.gif" width="170px"; height="100px";/>
+
+---
+
+{{< slide background-image="img/bg.png" >}}
+
+# TODO MICHELE
+
+---
+
+{{< slide background-image="img/bg.png" >}}
+
+# TODO Angelo: healthcare
+
+---
+
+{{< slide background-image="img/bg.png" >}}
+
+# TODO Angelo: augmented
+
+---
+
+{{< slide background-image="img/bg.png" >}}
+
+### Nuovi paradigmi di programmazione
