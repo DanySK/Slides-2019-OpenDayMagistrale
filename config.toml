@@ -1,0 +1,11 @@
+baseURL = "."
+languageCode = "en-us"
+title = "Pervasive Software Lab"
+theme = "reveal-hugo"
+relativeURLs = "true"
+uglyURLs = "true"
+
+[outputFormats.Reveal]
+baseName = "index"
+mediaType = "text/html"
+isHTML = true
