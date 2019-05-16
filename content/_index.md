@@ -52,4 +52,12 @@ slide_number = "true"
 
 {{< slide background-image="img/bg.png" >}}
 
-### Nuovi paradigmi di programmazione
+<iframe width="850" height="500" src="https://www.youtube.com/embed/arA42RHTA9Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+<video width="120%" height="120%" autoplay controls loop><source data-src="video/stampede.mp4" type="video/webm" /></video>
+
+---
+
+<img src="img/ci.png" width="120%"; height="120%";/>
