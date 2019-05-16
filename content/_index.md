@@ -34,7 +34,24 @@ slide_number = "true"
 
 {{< slide background-image="img/bg.png" >}}
 
-# TODO MICHELE
+#### Biological cell differentiation 
+<center> Prominent example of complex dynamics </center>
+<center> <img src="img/celldiff.jpg"; width="80%"; height="80%"/> </center>
+
+---
+
+{{< slide background-image="img/bg.png" >}}
+
+##### Genetic Regulatory Networks models 
+<center> <img src="img/boolnet.png"; width="70%"; height="70%"/> </center>
+
+
+---
+
+{{< slide background-image="img/bg.png" >}}
+
+###### ... as control software for robots 
+<video width="120%" height="120%" autoplay controls loop><source data-src="video/robot.mp4" type="video/mp4" /></video>
 
 ---
 
