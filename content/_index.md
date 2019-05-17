@@ -10,7 +10,9 @@ slide_number = "true"
 
 ### Pervasive software lab
 
-#### Where people tame complexity
+##### Dipartimento di Informatica -- Scienza e Ingegneria (DISI)
+
+<img src="img/pslab_logo.png" width="100%"; height="100%";/>
 
 ---
 
